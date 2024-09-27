@@ -1,0 +1,6 @@
+a) 9 (de 2 em 2)
+b) 128 (de multiplicações de 2)
+c) 49 (de 2 em 2 entra cada, ex de 1 pra 4, tem 3 no meio, 3+2 = 5, 4+5 = 9. Por ai vai)
+d) 100 (de 2 em 2 em potência. Ex: 4*4, 6*6, 8*8, e 10*10)
+e) 13 (sequencia de fibonacci)
+f) nao entendi
